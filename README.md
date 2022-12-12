@@ -1,1 +1,1 @@
-# package-config
+# mod-config
